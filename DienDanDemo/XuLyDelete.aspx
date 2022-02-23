@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="XuLyDelete.aspx.cs" Inherits="DienDanDemo.XuLyDelete" %>
