@@ -7,7 +7,7 @@ namespace DienDanDemo
 {
     public class ConnectString
     {
-        public static string constr = @"Data Source=DESKTOP-69EQ1FB\SQLEXPRESS;Initial Catalog=MangXaHoi;Integrated Security=True";
+        public static string constr = @"Data Source=LAPTOP-4PBAPP07\SQLEXPRESS;Initial Catalog=MangXaHoi;Integrated Security=True";
 
     }
 }
